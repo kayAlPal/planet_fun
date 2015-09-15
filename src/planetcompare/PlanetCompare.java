@@ -92,7 +92,6 @@ private static String capitalize(String line)
                 System.out.println("I'm sorry. Please try again. Enter a number between 0 and 4");
                 choice = chooseIt(); 
             }
-        
         }
         else
         {
@@ -152,12 +151,5 @@ private static String capitalize(String line)
         } while (next != 0); 
         
         System.out.println("Goodbye"); 
-
-        
-     
-        
-
-    }
-
-    
+    } 
 }
