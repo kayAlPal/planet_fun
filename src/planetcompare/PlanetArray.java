@@ -95,7 +95,7 @@ public class PlanetArray {
     /**
      * Asks the user's weight, converts it to metric and then prints the planet name
      * in the left column and what the user's weight would be on each planet in the 
-     * right column. 
+     * right column in ascending order. 
      */
     void printWeight()
     {
